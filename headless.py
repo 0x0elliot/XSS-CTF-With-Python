@@ -2,6 +2,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import sys
+import json
 
 
 with open('config.py', "r") as file:
