@@ -1,7 +1,8 @@
 # XSS-CTF-With-Python
 A Web CTF that was originally made for AppSec Village DEFCON 29 CTFs and had the name "Send me something interesting!"
 
-<img src = "https://i.imgur.com/qsWsFf7.png" />
+<img src = "https://i.imgur.com/qsWsFf7.png" /><br>
+<img src = "https://i.imgur.com/OyedNhN.png" />
 <br>
 
 <h1>How to launch deploy this?</h1>
