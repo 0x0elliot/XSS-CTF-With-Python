@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='templates/style.css') }}">
+</head>
+<body>
+
+<div id = "particles-js"></div>
+<script src = "https://raw.githubusercontent.com/VincentGarreau/particles.js/master/particles.js"></script>
+
+{% block content %}
+{% endblock %} 
+
+</body>
+</html>

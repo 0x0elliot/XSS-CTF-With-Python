@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block content %}
+<script src="https://www.google.com/recaptcha/api.js"></script>
+
+<center>
+<h2 style="color: white;">Send me a link to something interesting!</h2>
+<form action = "/submit" method = "post">
+
+    <input type="text" id="link" name="link"><br><br>
+
+    <div class="g-recaptcha" data-sitekey="{{ config['RECAPTCHA_PUBLIC_KEY'] }}"></div>
+    <br/>
+    <input type="submit" value="Submit">
+
+</form>
+<h3 style="color: wheat;">{{ message }}</h3>
+</center>
+
+<!-- Note to sociallyencrypted, I have started working on the API endpoint. Check it out the test endpoint here /api/test -->
+    
+{% endblock %} 
