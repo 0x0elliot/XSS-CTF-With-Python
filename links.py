@@ -7,7 +7,7 @@ import threading
 from headless import visit_with_cookies
 import json
 
-with open('config.py', "r") as file:
+with open('config.json', "r") as file:
     content = file.read()
     config = json.loads(content)
     
