@@ -9,7 +9,7 @@ A Web CTF that was originally made for AppSec Village DEFCON 29 CTFs and had the
 
 <p>
   It's very simple to deploy.<br> 
-  1. First go to <code>"config.py"</code> and add the ReCaptcha tokens. You can get them from <a href = "https://www.google.com/recaptcha/">here.</a><br>
+  1. First go to <code>"config.py"</code> and add the ReCaptcha tokens. You can get them from <a href = "https://www.google.com/recaptcha/" target = "_target">here.</a><br>
   
   I have left the test keys provided by google so that it is always ready to be deployed and tested locally. Similarly, When you're deploying the CTF then it's recomended to
   change the host to whatever your host is!
