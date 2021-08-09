@@ -5,7 +5,7 @@ import sys
 import json
 
 
-with open('config.py', "r") as file:
+with open('config.json', "r") as file:
     content = file.read()
     config = json.loads(content)
 
