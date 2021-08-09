@@ -1,7 +1,7 @@
 import requests
 import json
 
-with open('config.py', "r") as config_file:
+with open('config.json', "r") as config_file:
     content = config_file.read()
     json_content = json.loads(content)
 
