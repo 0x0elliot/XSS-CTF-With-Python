@@ -38,7 +38,7 @@ If someone helped prettify it, it would be great!
 
 <ul>
   <li>
-    <a href = "https://www.eivindarvesen.com/blog/2021/08/10/appsec-village-def-con-29-ctf-writeup">Go to the last section of this write up and you will find a section with the name "Send Me Something Intesting!"</a>
+    <a href = "https://www.eivindarvesen.com/blog/2021/08/10/appsec-village-def-con-29-ctf-writeup">Go to the last section of this write up and you will find a section with the name "Send Me Something Interesting!"</a>
   </li>
 </ul>
 
