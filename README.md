@@ -34,3 +34,11 @@ Go ahead, do your thing. I will respond to issues as quickly as possible for fix
 Expanding on this CTF in upcoming events and add 2-3 more layers to it. But If you feel like doing something, I would say the frontend of the site was a bit too rushed.
 If someone helped prettify it, it would be great!
 
+<h1>Solutions by the community: </h1>
+
+<ul>
+  <li>
+    <a href = "https://www.eivindarvesen.com/blog/2021/08/10/appsec-village-def-con-29-ctf-writeup">Go to the last section of this write up and you will find a section with the name "Send Me Something Intesting!"</a>
+  </li>
+</ul>
+
