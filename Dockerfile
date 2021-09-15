@@ -29,8 +29,7 @@ RUN apt-get update \
 
 RUN pip3 install -r requirements.txt
 #RUN rm /etc/nginx/conf.d/default.conf
-COPY http.conf /etc/nginx/conf.d
-RUN apt install nginx -y
+#RUN apt install nginx -y
 #RUN systemctl start nginx
 EXPOSE 8000
 
