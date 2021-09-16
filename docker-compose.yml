@@ -3,7 +3,6 @@ version: "3"
 services:
   web:
     build: .
-    user: root
     ports:
       - "80:8000"
 
